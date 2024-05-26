@@ -1,0 +1,357 @@
+Genero;Ciudad;Orientacion;Item1;Item2;Item3;Item4;Item5;Item6;Item7;Item8;Item9;Item10;Item11;Item12;Item13;Item14;Item15;Item16;Item17;Item18;Item19;Item20;Item21;Item22;Item23
+Masculino;Ushuaia;CienciasSociales;0;1;1;0;1;1;1;0;1;0;1;1;1;0;0;0;0;1;1;1;0;0;1
+Masculino;Ushuaia;CienciasSociales;0;1;1;0;0;1;1;0;0;1;1;1;0;1;1;1;0;0;1;0;1;1;0
+Masculino;Ushuaia;CienciasSociales;0;1;1;0;0;1;0;1;1;1;0;1;0;0;0;0;1;0;1;0;1;1;0
+Femenino;Ushuaia;CienciasSociales;0;1;1;0;0;1;1;1;1;0;1;0;0;0;0;0;1;0;1;0;1;1;0
+Femenino;Ushuaia;CienciasSociales;0;0;1;0;1;1;0;0;1;0;0;0;0;1;1;0;0;1;1;0;1;0;0
+Femenino;Ushuaia;CienciasSociales;0;1;1;1;1;1;1;0;0;0;1;0;0;0;0;1;1;1;0;0;1;1;0
+Masculino;Ushuaia;CienciasSociales;1;1;0;1;1;1;1;0;1;0;0;1;0;0;0;0;1;1;1;0;1;0;0
+Masculino;Ushuaia;CienciasSociales;0;1;1;1;1;1;1;0;0;1;1;1;0;1;0;0;0;0;1;1;1;0;1
+Femenino;Ushuaia;CienciasSociales;0;0;1;0;1;1;1;0;1;0;0;0;1;0;1;0;1;0;1;0;1;1;1
+Masculino;Ushuaia;Lenguas;0;0;1;1;1;1;1;0;1;1;1;0;1;0;0;0;0;1;0;0;1;1;0
+Masculino;Ushuaia;Lenguas;1;0;0;0;1;1;1;0;0;1;0;1;1;0;0;0;0;0;1;0;1;1;1
+Femenino;Ushuaia;Lenguas;0;1;1;0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;1;1;0;0
+Masculino;Ushuaia;Lenguas;0;1;1;1;0;1;1;0;1;0;1;0;1;1;0;0;1;0;1;0;1;1;0
+Femenino;Ushuaia;Lenguas;1;1;0;1;0;1;1;1;0;0;1;1;0;1;0;1;1;0;1;1;0;0;0
+Masculino;Ushuaia;AgroyAmbiente;0;0;1;0;1;1;1;1;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0
+Masculino;Ushuaia;AgroyAmbiente;0;0;0;0;0;1;0;1;1;0;1;0;0;0;0;1;1;0;1;0;1;0;0
+Masculino;Ushuaia;AgroyAmbiente;0;1;0;1;1;1;1;1;1;0;1;1;0;0;0;0;1;1;1;0;1;1;0
+Masculino;Ushuaia;AgroyAmbiente;0;1;0;1;1;1;1;1;1;0;1;1;0;0;0;1;1;1;1;1;1;1;0
+Masculino;Ushuaia;AgroyAmbiente;0;1;0;1;1;1;1;1;1;0;1;1;0;0;1;0;1;0;1;0;1;1;1
+Femenino;Ushuaia;AgroyAmbiente;0;1;1;1;1;1;0;0;1;0;1;1;0;0;0;0;0;1;1;1;1;0;0
+Masculino;Ushuaia;AgroyAmbiente;1;0;1;1;1;1;1;0;1;0;0;1;0;1;1;1;1;0;0;0;1;0;1
+Masculino;Ushuaia;EconomiayAdministracion;0;0;1;0;1;1;1;0;0;0;1;1;0;0;0;0;1;0;1;1;1;1;1
+Femenino;Ushuaia;EconomiayAdministracion;0;0;1;0;0;1;1;0;0;0;0;1;1;1;1;1;0;1;1;1;0;1;0
+Masculino;Ushuaia;CienciasSociales;1;1;1;0;1;1;0;0;0;1;1;1;0;0;0;0;0;1;1;1;1;0;0
+Masculino;Ushuaia;EconomiayAdministracion;1;1;1;0;1;1;1;1;0;0;1;1;0;0;0;1;1;1;1;0;1;1;1
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;0;1;1;1;0;1;1;0;1;1;0;0;0;0;1;1;0;1;1;0
+Femenino;Ushuaia;EconomiayAdministracion;0;1;1;0;0;1;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0
+Femenino;Ushuaia;EconomiayAdministracion;0;1;1;1;1;1;0;0;0;0;1;0;0;0;0;0;0;1;1;1;1;0;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;1;0;0;1;1;0;0;0;1;1;1;0;1;0;1;1;1;1;1;0;0
+Femenino;Ushuaia;EconomiayAdministracion;0;1;1;0;1;1;1;0;0;1;0;1;0;0;0;1;1;1;1;1;1;1;0
+Femenino;Ushuaia;Lenguas;0;1;0;0;1;1;1;0;0;1;0;1;0;0;0;1;1;1;1;1;1;1;0
+Femenino;Ushuaia;EconomiayAdministracion;0;1;0;1;0;1;1;0;0;1;0;1;0;0;0;1;1;0;1;0;1;0;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;1;0;1;1;0;0;0;1;1;1;0;0;0;1;0;1;1;1;1;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;1;0;1;1;0;0;1;1;1;1;0;0;0;1;0;1;0;1;1;1
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;1;1;1;1;1;0;1;1;1;1;0;0;1;0;1;0;0;1;1;1
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;1;0;1;1;0;0;1;1;1;1;0;0;1;0;0;1;0;1;1;0
+Masculino;Ushuaia;Informatica ;0;0;0;1;1;1;1;0;1;1;1;0;1;0;0;0;1;0;1;1;1;0;1
+Masculino;Ushuaia;CienciasNaturales;0;1;0;1;1;1;1;1;0;0;0;1;1;0;0;0;1;0;1;1;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;0;0;1;1;1;1;0;1;1;0;1;0;0;0;1;0;0;1;1;0;1
+Masculino;Ushuaia;Informatica ;0;1;0;1;1;1;1;1;0;0;1;0;1;0;0;0;1;0;0;0;1;1;1
+Masculino;Ushuaia;Informatica ;0;0;0;1;1;1;1;1;1;1;1;1;1;0;0;0;1;0;1;1;0;0;1
+Femenino;Ushuaia;Comunicacion;0;0;1;0;1;1;1;0;0;1;1;1;0;0;1;0;1;1;1;0;1;1;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;1;1;1;1;1;0;0;0;1;1;0;0;1;0;0;0;0;1;1;1
+Masculino;Ushuaia;AgroyAmbiente;0;1;1;1;1;1;1;1;0;1;1;0;1;0;0;0;1;1;0;1;1;1;0
+Masculino;Ushuaia;Informatica ;0;1;1;1;0;1;1;1;0;0;0;1;1;0;0;0;1;0;1;0;1;1;0
+Femenino;Ushuaia;Informatica ;1;0;1;0;0;1;1;0;1;0;1;1;1;0;1;0;1;0;1;1;1;0;1
+Femenino;Ushuaia;Informatica ;0;1;1;0;1;1;1;1;0;1;1;1;0;0;0;0;0;1;0;0;0;0;0
+Masculino;Ushuaia;Informatica ;1;0;1;1;1;1;1;0;1;0;1;1;0;0;0;0;1;1;1;0;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;0;0;1;1;1;0;1;0;1;1;1;0;1;0;1;0;1;0;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;1;1;1;1;0;1;0;1;1;0;0;0;1;1;1;0;0;1;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;1;1;1;1;1;0;1;0;1;1;1;0;0;1;0;0;1;0;0;1;0
+Masculino;Ushuaia;Informatica ;0;0;1;0;0;1;1;0;1;0;0;0;1;1;0;0;1;1;1;0;1;0;0
+Masculino;Ushuaia;Informatica ;1;1;1;1;0;1;1;1;1;0;1;1;1;0;0;0;1;0;1;0;1;1;1
+Femenino;Ushuaia;Informatica ;0;1;0;1;1;1;0;0;0;0;1;1;0;0;0;0;1;1;1;0;1;0;0
+Femenino;Ushuaia;Informatica ;1;1;1;1;0;1;1;1;0;0;1;1;1;0;1;0;1;0;1;1;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;1;1;1;1;1;1;0;0;1;1;1;0;0;0;1;0;1;0;1;0;0
+Masculino;Ushuaia;Informatica ;1;1;1;1;1;1;0;1;0;0;1;1;1;0;0;0;1;0;1;1;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;1;1;1;1;1;0;1;0;0;1;0;0;1;0;1;1;1;1;1;0;1
+Femenino;Ushuaia;Informatica ;1;1;0;1;0;1;1;1;0;0;1;1;1;0;0;0;1;0;1;1;1;0;0
+Femenino;Ushuaia;Informatica ;0;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;1;1;0;1;1;1;1
+Femenino;Ushuaia;Informatica ;0;1;1;1;1;1;1;1;0;1;0;0;1;0;0;0;1;0;1;1;1;0;0
+Masculino;Ushuaia;Informatica ;1;1;0;0;0;1;1;0;0;1;0;0;1;0;0;0;0;1;0;1;1;1;1
+Masculino;Ushuaia;Informatica ;0;1;1;0;0;1;1;0;0;1;1;0;1;0;0;0;1;0;0;0;1;1;1
+Masculino;Ushuaia;Informatica ;0;1;0;0;1;1;1;1;1;0;0;1;1;0;1;0;1;0;0;0;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;1;1;0;1;0;1;1;1;0;0;1;0;0;0;1;1;1;1;1;0;1
+Masculino;Ushuaia;Informatica ;0;1;0;1;0;1;1;0;1;0;1;0;1;0;0;1;1;1;1;1;1;1;0
+Femenino;Ushuaia;Informatica ;1;0;1;0;1;1;0;0;1;1;1;1;1;0;0;1;1;1;1;1;0;1;1
+Masculino;Ushuaia;Informatica ;0;0;1;0;1;0;0;0;0;1;1;1;1;0;0;1;1;1;1;1;0;1;1
+Masculino;Ushuaia;Informatica ;1;1;1;0;1;1;1;0;1;0;1;1;1;1;0;0;1;0;1;0;1;0;1
+Femenino;Ushuaia;Informatica ;0;1;1;0;1;1;1;0;1;0;1;1;1;1;0;0;1;0;1;0;1;0;1
+Masculino;Ushuaia;Informatica ;0;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;1;0;1;1;1;1;0
+Femenino;Ushuaia;Informatica ;0;1;1;0;1;1;0;1;1;0;1;1;0;0;1;0;1;0;1;1;1;1;0
+Masculino;Ushuaia;Informatica ;1;0;0;0;0;1;0;1;1;0;0;1;1;0;0;1;1;0;1;0;1;0;0
+Masculino;Ushuaia;Informatica ;1;1;1;1;0;1;1;0;0;0;1;1;1;0;0;0;0;0;1;1;1;0;1
+Masculino;Ushuaia;Informatica ;0;0;0;1;1;1;1;0;0;0;0;1;1;0;1;0;1;0;1;1;1;0;1
+Masculino;Ushuaia;Informatica ;0;0;0;1;1;1;1;0;1;1;1;0;1;0;0;0;1;1;1;0;1;0;0
+Masculino;Ushuaia;Construcciones;0;1;0;0;1;1;1;0;0;0;1;0;0;0;0;0;1;1;1;1;1;0;1
+Masculino;Ushuaia;Construcciones;0;0;0;0;1;1;0;0;0;0;1;0;1;0;0;0;0;1;1;1;1;0;1
+Masculino;Ushuaia;Construcciones;0;1;0;0;1;1;1;0;0;0;1;0;0;0;0;0;1;1;1;1;1;0;1
+Femenino;Ushuaia;Construcciones;0;1;0;1;1;1;0;1;0;0;0;0;1;0;0;0;1;1;1;0;1;1;0
+Masculino;Ushuaia;Construcciones;0;1;0;0;1;1;0;0;0;1;0;1;1;0;1;0;1;0;1;1;1;0;1
+Femenino;Ushuaia;Construcciones;0;0;0;0;0;1;0;0;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1
+Femenino;Ushuaia;Construcciones;0;0;0;0;1;1;1;0;0;1;1;1;0;0;0;0;1;1;0;1;1;0;1
+Femenino;Ushuaia;Construcciones;0;0;0;0;1;1;0;0;1;1;1;1;0;0;0;1;0;0;1;1;0;1;1
+Masculino;Ushuaia;Construcciones;1;1;1;1;1;1;0;0;0;0;1;1;0;0;0;0;1;1;1;0;1;0;0
+Masculino;Ushuaia;Construcciones;1;1;1;0;1;1;1;0;1;1;1;1;1;0;0;1;0;1;1;0;1;1;1
+Femenino;Ushuaia;Construcciones;1;1;1;1;1;1;0;1;1;0;1;1;0;1;1;1;0;1;1;0;1;0;0
+Masculino;Ushuaia;Construcciones;0;0;1;1;1;1;0;0;0;0;1;1;0;0;0;0;1;0;1;1;1;0;0
+Masculino;Ushuaia;Construcciones;0;1;0;1;1;1;1;0;0;1;1;1;0;0;0;0;0;0;1;0;0;1;1
+Femenino;Ushuaia;Construcciones;0;1;0;1;1;1;1;0;1;0;1;1;1;0;0;1;1;0;1;1;1;0;0
+Femenino;Ushuaia;Construcciones;0;1;1;1;0;1;1;0;1;0;1;1;0;1;1;0;1;1;1;1;1;0;0
+Femenino;Ushuaia;Construcciones;1;1;0;0;1;1;1;0;0;0;1;1;1;0;0;0;0;0;1;0;1;0;1
+Femenino;Ushuaia;Construcciones;1;1;0;1;0;1;1;0;0;0;1;1;1;0;0;0;0;0;1;0;1;0;1
+Masculino;Ushuaia;Construcciones;0;1;1;1;1;1;1;0;1;0;1;0;1;0;0;0;1;0;1;1;1;0;0
+Masculino;Ushuaia;Construcciones;0;1;1;1;1;1;1;0;1;0;1;1;1;0;0;1;1;1;1;1;1;0;1
+Masculino;Ushuaia;Construcciones;1;1;1;1;1;1;1;0;0;1;1;1;1;0;1;0;1;0;1;0;1;1;1
+Masculino;Ushuaia;Construcciones;1;0;1;1;1;1;1;0;0;0;1;1;1;0;1;0;1;0;0;1;1;1;0
+Masculino;Ushuaia;Construcciones;1;1;1;1;1;1;1;0;1;0;1;1;1;0;0;1;1;0;1;1;1;0;0
+Masculino;Ushuaia;Construcciones;0;1;1;1;0;1;1;0;1;0;1;1;1;0;0;1;1;1;1;1;1;0;0
+Femenino;Ushuaia;Construcciones;1;1;0;1;1;1;1;1;1;1;1;1;0;0;0;1;1;1;1;0;1;0;0
+Femenino;Ushuaia;Construcciones;1;1;0;1;1;1;1;1;1;1;1;0;0;0;1;0;0;1;1;0;1;0;1
+Femenino;Ushuaia;Construcciones;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;1
+Masculino;Ushuaia;Construcciones;0;1;1;1;1;1;1;0;1;1;0;1;1;0;1;0;0;0;1;0;1;1;0
+Femenino;Ushuaia;Construcciones;0;0;1;0;0;1;1;0;1;0;1;1;0;0;0;0;0;1;0;1;1;0;0
+Masculino;Ushuaia;Construcciones;0;1;0;0;1;1;1;1;1;0;0;1;1;0;0;0;1;0;1;0;0;0;0
+Femenino;Ushuaia;Construcciones;0;1;0;0;1;1;1;0;1;1;1;1;0;0;0;0;0;0;1;0;1;0;1
+Femenino;Ushuaia;Construcciones;0;0;0;0;1;0;1;0;0;0;1;1;0;0;0;0;1;1;1;0;0;1;0
+Masculino;Ushuaia;Construcciones;0;1;0;0;1;1;1;0;0;1;0;1;1;0;0;0;0;0;1;1;1;0;0
+Masculino;Ushuaia;Construcciones;0;1;1;1;1;1;1;1;1;0;1;0;1;0;1;0;1;1;1;1;1;0;1
+Masculino;Ushuaia;Construcciones;0;0;1;0;1;1;0;0;1;1;0;0;0;0;0;1;1;1;1;0;1;0;1
+Femenino;Ushuaia;Construcciones;1;1;1;0;1;1;1;1;1;0;1;1;1;0;1;0;1;1;1;0;1;0;0
+Femenino;Ushuaia;Informatica ;0;1;1;0;0;1;1;0;1;0;0;0;1;0;0;0;1;0;1;0;1;1;1
+Masculino;Ushuaia;Informatica ;0;1;0;1;0;1;1;1;0;1;0;1;0;1;1;0;0;0;1;0;1;0;1
+Masculino;Ushuaia;Informatica ;0;1;0;1;1;1;1;1;1;0;0;0;1;0;0;0;1;1;1;0;1;1;1
+Masculino;Ushuaia;Informatica ;1;1;0;0;1;1;1;1;1;0;1;1;0;0;0;0;0;0;0;0;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;0;1;0;1;0;0;0;0;1;0;1;1;0;1;1;0;1;1;1;1;1
+Masculino;Ushuaia;Informatica ;1;1;1;1;1;1;1;1;0;0;0;1;1;0;0;1;1;0;0;0;1;1;1
+Masculino;Ushuaia;Informatica ;0;1;0;1;1;1;0;0;1;1;1;1;1;0;0;0;0;0;1;0;1;0;0
+Femenino;Ushuaia;Informatica ;0;1;1;1;1;1;1;1;0;0;1;1;0;0;0;0;1;0;1;1;1;1;0
+Femenino;Ushuaia;Informatica ;0;1;1;0;1;1;1;0;1;0;1;1;0;0;1;0;1;0;1;0;1;0;0
+Femenino;Ushuaia;Informatica ;0;1;1;0;1;1;0;0;1;0;1;1;0;0;0;0;1;0;1;1;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;1;0;1;1;0
+Femenino;Ushuaia;Informatica ;1;1;1;0;1;1;1;1;1;0;1;1;0;0;0;0;0;0;1;1;1;1;1
+Femenino;Ushuaia;Informatica ;0;1;0;1;0;1;1;0;1;1;1;1;0;0;0;1;0;0;1;1;0;0;1
+Femenino;Ushuaia;Informatica ;0;1;0;0;1;1;0;1;1;1;1;1;0;0;0;0;1;1;0;1;1;0;0
+Masculino;Ushuaia;Informatica ;0;0;0;0;1;1;1;1;1;0;1;0;1;0;0;0;1;0;0;1;1;1;1
+Femenino;Ushuaia;Informatica ;0;0;1;1;0;1;1;1;0;1;1;1;1;0;0;0;1;0;1;0;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;1;0;1;1;0;1;1;0;1;1;1;0;0;1;1;0;1;1;1;1;0
+Femenino;Ushuaia;Informatica ;0;1;1;0;1;1;1;1;0;1;1;1;1;0;0;1;1;0;1;1;0;0;0
+Masculino;Ushuaia;Informatica ;0;0;1;0;1;0;0;1;1;1;0;1;0;0;0;1;0;0;0;0;0;1;0
+Femenino;Ushuaia;Informatica ;0;1;1;0;1;1;1;0;0;0;0;1;0;0;1;1;0;0;1;0;0;0;0
+Masculino;Ushuaia;Informatica ;0;1;0;0;1;1;1;0;0;0;1;1;1;0;0;0;1;1;1;0;1;1;1
+Femenino;Ushuaia;Informatica ;0;1;0;0;1;1;0;1;1;1;1;0;0;1;0;0;0;0;0;1;0;0;1
+Femenino;Ushuaia;Informatica ;0;0;1;0;0;0;1;0;1;1;0;0;0;0;0;1;0;0;0;1;0;0;0
+Masculino;Ushuaia;Informatica ;0;0;0;0;1;1;1;1;1;1;1;1;1;0;0;0;0;1;1;0;1;1;0
+Masculino;Ushuaia;Informatica ;0;0;0;0;1;1;1;1;0;1;1;0;1;0;1;0;1;1;1;0;1;0;0
+Masculino;Ushuaia;Informatica ;0;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;1;0;1;0;1;0;0
+Masculino;Ushuaia;Electronica ;0;0;0;0;1;1;1;0;0;1;1;0;0;0;1;0;1;0;1;0;1;0;0
+Femenino;Ushuaia;Informatica ;1;1;0;0;0;1;1;1;1;0;0;1;0;0;0;1;1;1;0;1;1;0;0
+Masculino;Ushuaia;Informatica ;0;0;1;0;0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;1;0;0
+Femenino;Ushuaia;Informatica ;0;1;1;1;1;1;1;0;0;0;1;1;0;0;0;0;1;1;0;1;1;1;0
+Masculino;Ushuaia;Informatica ;0;0;0;1;0;1;1;1;0;0;0;0;1;1;0;0;0;1;1;0;1;0;1
+Femenino;Ushuaia;Informatica ;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0
+Femenino;Ushuaia;Informatica ;1;1;1;1;0;1;1;1;0;1;1;0;0;0;1;0;1;1;0;1;1;0;1
+Masculino;Ushuaia;Informatica ;1;0;0;0;1;1;1;1;0;0;1;1;1;0;0;0;1;0;0;0;1;0;1
+Femenino;Ushuaia;Informatica ;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+Femenino;Ushuaia;Informatica ;0;0;0;1;0;1;1;1;0;0;0;1;0;0;0;1;0;1;0;1;1;0;0
+Masculino;Ushuaia;Informatica ;0;0;0;1;1;1;1;0;0;0;1;1;1;0;0;0;0;0;1;0;1;1;1
+Masculino;Ushuaia;Informatica ;1;1;0;1;1;1;0;0;0;0;1;1;1;0;0;0;0;0;1;0;1;1;0
+Masculino;Ushuaia;ArtesVisuales ;0;0;1;1;0;1;1;0;0;0;1;0;1;0;1;0;1;1;1;1;1;1;1
+Femenino;Ushuaia;ArtesVisuales ;0;1;0;1;1;1;1;0;1;1;0;1;0;0;0;1;1;1;1;0;1;0;0
+Femenino;Ushuaia;ArtesVisuales ;1;0;1;0;0;1;1;0;1;0;1;1;1;0;0;0;1;0;1;1;0;0;0
+Masculino;Ushuaia;ArtesVisuales ;0;0;1;0;0;1;1;0;1;1;1;1;1;0;0;0;1;1;1;1;1;0;0
+Femenino;Ushuaia;ArtesVisuales ;0;0;0;1;1;1;1;0;1;1;1;1;1;0;0;0;1;0;0;0;1;1;0
+Masculino;Ushuaia;ArtesVisuales ;0;1;1;1;0;1;1;1;1;0;0;1;1;0;1;0;1;0;1;1;1;1;0
+Femenino;Ushuaia;ArteMusica ;1;1;0;0;0;1;1;1;0;1;1;1;0;0;1;0;0;1;0;0;1;1;1
+Femenino;Ushuaia;AgroyAmbiente;0;1;1;0;1;1;1;0;0;1;1;1;1;0;0;1;1;1;0;0;1;1;1
+Femenino;Ushuaia;ArteMusica ;0;1;1;1;1;1;1;0;1;1;1;1;0;0;0;0;1;1;1;1;1;1;0
+Femenino;Ushuaia;ArteMusica ;0;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;1;1;1;1;1;0;0
+Femenino;Ushuaia;ArteMusica ;0;0;1;1;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+Femenino;Ushuaia;ArteMusica ;1;1;1;1;1;1;1;1;0;1;1;1;0;0;0;1;1;1;1;1;1;1;0
+Masculino;Ushuaia;ArteMusica ;0;1;1;1;1;1;1;1;1;1;1;1;0;0;0;1;1;1;1;1;1;1;0
+Femenino;Ushuaia;ArteMusica ;0;1;1;1;1;1;1;1;1;1;0;1;0;0;1;1;0;1;0;1;1;0;0
+Masculino;Ushuaia;Comunicacion;0;0;1;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1;1;1;0
+Masculino;Ushuaia;Comunicacion;1;1;0;0;1;1;0;1;1;0;0;1;1;0;0;0;0;1;1;0;0;0;0
+Femenino;Ushuaia;Comunicacion;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;1;1;0;1;1;1;0;0
+Femenino;Ushuaia;Comunicacion;0;0;0;0;0;1;1;0;1;0;0;1;0;0;0;1;1;0;1;1;1;0;0
+Masculino;Ushuaia;Turismo;0;0;1;1;0;1;1;0;1;0;1;0;0;0;1;0;0;0;1;1;1;0;0
+Femenino;Ushuaia;Turismo;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0;1;0
+Femenino;Ushuaia;Turismo;0;0;0;0;1;1;1;0;1;0;1;1;0;1;0;0;0;0;0;1;0;0;0
+Masculino;Ushuaia;Turismo;1;0;0;0;1;1;1;0;0;0;1;1;1;1;0;0;1;0;1;0;1;0;1
+Masculino;Ushuaia;CienciasNaturales;1;0;1;1;0;1;1;1;0;0;0;1;1;0;0;0;1;0;1;0;1;1;1
+Masculino;Ushuaia;CienciasSociales;0;1;0;0;1;1;1;0;1;1;1;0;0;0;1;0;0;1;1;1;0;1;1
+Masculino;Ushuaia;CienciasNaturales;0;1;0;1;1;0;1;1;0;0;1;1;0;1;0;0;1;0;1;1;1;0;0
+Femenino;Ushuaia;CienciasNaturales;1;1;1;1;1;1;0;1;1;1;1;1;1;0;0;0;0;1;1;1;1;0;0
+Femenino;Ushuaia;EconomiayAdministracion;0;1;1;1;1;1;1;0;0;0;0;1;1;0;0;1;1;0;0;0;1;1;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;1;1;1;1;1;1;0;0;0;1;1;1;0;0;1;0;1;0;1;1;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;1;0;1;1;1;1;1;1;0;0;1;0;0;1;1;0;0;0;1;1;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;0;1;1;1;0;0;0;1;1;0;0;0;0;0;1;1;0;1;0;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;1;0;0;1;1;0;1;0;0;0;0;0;1;0;1;0;1;1;1;1;1
+Femenino;Ushuaia;EconomiayAdministracion;1;1;0;1;1;1;1;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0
+Femenino;Ushuaia;EconomiayAdministracion;0;1;1;0;1;1;1;0;0;0;0;1;0;1;0;0;1;0;1;0;0;0;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;1;1;1;1;1;0;0;0;0;0;1;0;0;1;0;1;1;1;0;0
+Femenino;Ushuaia;EconomiayAdministracion;0;1;0;0;1;1;1;1;0;0;1;1;1;0;0;0;0;1;1;1;1;0;0
+Femenino;Ushuaia;EconomiayAdministracion;0;0;0;0;1;1;1;0;1;0;1;1;1;0;0;1;0;0;1;0;1;1;1
+Masculino;Ushuaia;EconomiayAdministracion;1;1;0;0;1;1;0;0;0;1;1;1;1;0;0;0;1;1;0;0;1;1;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;0;1;1;1;0;0;1;0;0;1;0;0;1;0;1;1;0;1;1;0
+Masculino;Ushuaia;CienciasSociales;0;1;1;0;0;1;0;1;0;0;0;1;1;0;1;0;1;1;1;1;1;0;0
+Masculino;Ushuaia;CienciasSociales;0;1;1;1;1;1;1;0;0;1;0;1;0;0;0;1;1;1;1;1;1;0;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;1;1;1;1;0;0;0;0;0;1;0;0;0;0;1;1;1;1;1;0;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;1;1;1;1;1;0;1;1;1;1;0;1;0;0;0;1;0;0;0;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;0;1;1;1;1;0;0;1;1;1;0;0;0;0;1;0;1;0;1;1;0
+Femenino;Ushuaia;EconomiayAdministracion;0;1;1;1;1;0;1;1;0;0;1;1;0;0;0;0;1;0;1;0;1;0;0
+Masculino;Ushuaia;EconomiayAdministracion;0;1;1;0;1;1;0;1;1;0;1;1;0;0;0;0;1;1;1;1;1;1;1
+Femenino;Ushuaia;CienciasNaturales;1;1;1;0;1;0;1;0;0;0;1;0;1;0;0;0;1;1;1;1;1;0;0
+Femenino;Ushuaia;CienciasSociales;0;1;0;0;1;1;0;0;1;0;1;1;1;0;0;0;1;1;1;1;1;1;0
+Femenino;Ushuaia;CienciasSociales;0;1;0;0;1;1;1;0;0;0;1;0;0;0;1;1;1;1;0;1;1;1;1
+Masculino;Ushuaia;CienciasSociales;0;0;1;0;1;1;1;0;1;1;1;1;0;0;0;0;1;1;0;1;0;0;0
+Masculino;Ushuaia;EducacionFi­sica;0;0;1;0;1;1;1;0;0;0;0;0;1;0;0;0;1;0;1;0;0;1;0
+No Binario;Ushuaia;Turismo;0;1;0;1;1;0;1;0;0;0;1;1;0;1;0;0;1;0;1;0;1;1;0
+Femenino;Ushuaia;Turismo;0;1;1;1;1;1;1;0;1;1;1;1;1;0;1;0;1;0;1;1;1;1;1
+Masculino;Ushuaia;ArtesVisuales ;0;0;1;0;0;1;0;1;1;0;0;1;1;0;0;0;0;0;1;1;1;1;0
+Femenino;Ushuaia;Turismo;0;0;1;0;1;1;1;1;1;0;1;0;1;0;0;0;1;1;1;1;1;1;1
+Femenino;Ushuaia;Turismo;1;1;0;1;1;1;1;0;0;1;1;1;1;0;0;1;0;1;1;0;1;1;0
+Masculino;Ushuaia;Turismo;0;0;1;0;0;1;0;1;1;0;0;1;1;0;0;0;0;0;1;1;1;1;1
+Masculino;Ushuaia;EducacionFi­sica;0;1;0;0;1;1;1;0;0;0;0;1;1;0;0;1;1;1;1;0;0;1;0
+Femenino;Ushuaia;ArtesVisuales ;0;1;0;1;1;1;1;0;0;1;0;1;0;0;0;1;1;1;1;0;1;1;0
+Femenino;Ushuaia;Turismo;0;1;1;1;0;1;1;1;1;0;1;1;1;0;1;1;1;1;1;0;1;1;0
+Masculino;Ushuaia;Turismo;1;1;1;1;1;1;0;0;1;1;1;1;1;0;0;0;1;1;1;1;1;1;1
+Masculino;Ushuaia;Turismo;1;1;1;1;1;1;0;0;1;1;1;1;1;0;0;0;1;1;1;0;1;1;1
+Masculino;Ushuaia;Turismo;1;1;1;1;0;1;1;0;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1
+Masculino;Ushuaia;Turismo;0;1;0;0;1;0;1;0;0;0;0;1;1;0;0;0;1;0;1;1;1;0;1
+Femenino;Ushuaia;EducacionFi­sica;0;0;1;0;0;1;1;0;1;1;1;0;1;0;0;1;1;0;1;0;1;0;0
+Masculino;Ushuaia;Turismo;0;0;0;0;0;0;1;0;0;0;0;0;1;1;0;0;1;1;0;0;0;0;0
+Femenino;Ushuaia;ArtesVisuales ;1;1;1;1;1;1;1;1;0;0;1;0;0;0;0;1;1;1;1;0;1;0;1
+Masculino;Ushuaia;CienciasNaturales ;1;1;1;1;1;0;1;0;1;1;1;1;1;1;1;0;1;0;1;1;1;1;1
+Masculino;Ushuaia;CienciasNaturales ;0;1;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;1;0;0
+Masculino;Ushuaia;CienciasNaturales ;0;1;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;1;0;0
+Masculino;Ushuaia;CienciasNaturales ;0;1;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;1;0;0
+Masculino;Ushuaia;CienciasNaturales ;1;1;1;1;1;0;1;0;1;1;1;1;1;1;1;0;1;0;1;1;1;1;1
+Masculino;Ushuaia;CienciasNaturales ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Femenino;ushuaia;CienciasNaturales ;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Femenino;ushuaia;CienciasNaturales ;1;0;1;1;1;0;1;0;1;1;1;1;1;1;1;0;1;0;1;1;1;1;1
+Masculino;ushuaia;CienciasNaturales ;1;1;1;1;1;0;1;0;1;1;1;1;1;1;1;0;1;0;1;1;1;1;1
+Femenino;ushuaia;CienciasNaturales ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Masculino;ushuaia;CienciasNaturales ;1;1;1;1;1;0;1;0;1;1;1;1;1;1;1;0;1;0;1;1;1;1;1
+Masculino;ushuaia;CienciasNaturales ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Femenino;ushuaia;CienciasNaturales ;1;1;1;1;1;0;1;0;1;1;1;1;1;1;1;0;1;0;1;1;1;1;1
+Femenino;ushuaia;CienciasNaturales ;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Masculino;ushuaia;CienciasNaturales ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Femenino;ushuaia;CienciasNaturales ;1;1;1;1;1;0;1;0;1;1;1;1;1;1;1;0;1;0;1;1;1;1;1
+Femenino;ushuaia;Turismo ;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Masculino;ushuaia;Turismo ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Masculino;ushuaia;Turismo ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1
+Masculino;ushuaia;Turismo ;0;0;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;1;0;0
+Masculino;ushuaia;Turismo ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Femenino;ushuaia;Turismo ;0;1;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;1;0;0
+Femenino;ushuaia;Turismo ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Masculino;ushuaia;Turismo ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1
+Masculino;ushuaia;Turismo ;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Masculino;ushuaia;Turismo ;0;1;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;1;0;0
+Masculino;ushuaia;Turismo ;0;1;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;1;0;0
+Femenino;ushuaia;AgroyAmbiente ;1;1;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;1;0;0
+Femenino;ushuaia;AgroyAmbiente ;1;0;1;1;0;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;1
+Masculino;ushuaia;AgroyAmbiente ;0;0;1;1;0;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;1
+Femenino;ushuaia;AgroyAmbiente ;0;0;1;1;0;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;1
+Femenino;ushuaia;AgroyAmbiente ;0;0;1;1;0;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;1
+Masculino;ushuaia;AgroyAmbiente ;1;0;1;1;0;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;1
+Masculino;ushuaia;AgroyAmbiente ;0;0;1;0;0;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;1
+Masculino;ushuaia;AgroyAmbiente ;1;0;1;1;0;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;1
+Masculino;ushuaia;AgroyAmbiente ;0;0;1;0;0;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;1
+Masculino;ushuaia;ArteMusica ;0;0;0;0;0;0;0;1;1;0;0;0;1;1;1;0;0;0;0;1;0;0;0
+No Binario;ushuaia;ArteMusica ;1;1;1;1;1;1;0;0;0;0;0;1;1;0;1;0;0;0;0;1;1;1;1
+Masculino;ushuaia;ArteMusica ;1;1;1;1;1;1;0;0;0;0;0;1;1;0;1;0;0;0;0;1;1;1;1
+Femenino;ushuaia;ArteMusica ;0;0;0;0;0;0;0;1;1;0;0;0;1;1;1;0;0;0;0;1;0;0;0
+Masculino;ushuaia;ArteMusica ;1;1;1;1;1;1;0;0;0;0;0;1;1;0;1;0;0;0;0;1;1;1;1
+No Binario;ushuaia;ArteMusica ;0;0;0;0;0;0;0;1;1;0;0;0;1;1;1;0;0;0;0;1;0;0;0
+Femenino;ushuaia;ArteMusica ;0;0;0;0;0;0;0;1;1;0;0;0;1;1;1;0;0;0;0;1;0;0;0
+Femenino;ushuaia;ArtesVisuales ;1;1;1;1;1;1;0;0;0;0;0;1;1;0;1;0;0;0;0;1;1;1;1
+Masculino;ushuaia;ArtesVisuales ;1;0;0;0;0;1;0;0;1;1;0;0;1;1;1;0;0;0;0;0;0;0;1
+Masculino;ushuaia;ArtesVisuales ;1;1;1;1;1;1;0;0;0;0;0;1;1;0;1;0;0;0;0;1;1;1;1
+No Binario;ushuaia;ArtesVisuales ;0;1;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;1;0;0
+Femenino;ushuaia;ArtesVisuales ;1;1;1;1;1;1;0;0;0;0;0;1;1;0;1;0;0;0;0;1;1;1;1
+Masculino;ushuaia;ArtesVisuales ;0;0;1;0;1;1;0;0;1;0;0;0;0;1;1;0;0;1;1;0;1;0;0
+Femenino;ushuaia;ArtesVisuales ;0;1;1;1;1;1;1;0;0;0;1;0;0;0;0;1;1;1;0;0;1;1;0
+Femenino;ushuaia;ArtesVisuales ;1;1;0;1;1;1;1;0;1;0;0;1;0;0;0;0;1;1;1;0;1;0;0
+Masculino;ushuaia;Informatica ;0;1;1;1;1;1;1;0;0;1;1;1;0;1;0;0;0;0;1;1;1;0;1
+Masculino;ushuaia;Informatica ;0;0;1;0;1;1;1;0;1;0;0;0;1;0;1;0;1;0;1;0;1;1;1
+Femenino;ushuaia;Informatica ;0;0;1;1;1;1;1;0;1;1;1;0;1;0;0;0;0;1;0;0;1;1;0
+Femenino;ushuaia;Informatica ;1;0;0;0;1;1;1;0;0;1;0;1;1;0;0;0;0;0;1;0;1;1;1
+Masculino;ushuaia;Informatica ;0;1;1;0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;1;1;0;0
+Masculino;ushuaia;Informatica ;0;1;1;1;0;1;1;0;1;0;1;0;1;1;0;0;1;0;1;0;1;1;0
+Masculino;ushuaia;Informatica ;1;1;0;1;0;1;1;1;0;0;1;1;0;1;0;1;1;0;1;1;0;0;0
+Masculino;ushuaia;Informatica ;0;0;1;0;1;1;1;1;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0
+Femenino;ushuaia;Informatica ;0;0;0;0;0;1;0;1;1;0;1;0;0;0;0;1;1;0;1;0;1;0;0
+Masculino;ushuaia;Informatica ;0;1;0;1;1;1;1;1;1;0;1;1;0;0;0;0;1;1;1;0;1;1;0
+Femenino;ushuaia;Informatica ;0;1;0;1;1;1;1;1;1;0;1;1;0;0;0;1;1;1;1;1;1;1;0
+Femenino;ushuaia;Informatica ;0;1;0;1;1;1;1;1;1;0;1;1;0;0;1;0;1;0;1;0;1;1;1
+Femenino;ushuaia;Informatica ;0;1;1;1;1;1;0;0;1;0;1;1;0;0;0;0;0;1;1;1;1;0;0
+Femenino;ushuaia;Comunicacion;1;0;1;1;1;1;1;0;1;0;0;1;0;1;1;1;1;0;0;0;1;0;1
+Masculino;ushuaia;Comunicacion;0;0;1;0;1;1;1;0;0;0;1;1;0;0;0;0;1;0;1;1;1;1;1
+Femenino;ushuaia;Comunicacion;0;0;1;0;0;1;1;0;0;0;0;1;1;1;1;1;0;1;1;1;0;1;0
+Femenino;ushuaia;Comunicacion;1;1;1;0;1;1;0;0;0;1;1;1;0;0;0;0;0;1;1;1;1;0;0
+Femenino;ushuaia;Comunicacion;1;1;1;0;1;1;1;1;0;0;1;1;0;0;0;1;1;1;1;0;1;1;1
+Masculino;ushuaia;EducacionFisica;0;1;0;0;1;1;1;0;1;1;0;1;1;0;0;0;0;1;1;0;1;1;0
+Femenino;ushuaia;EducacionFisica;0;1;1;0;0;1;1;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0
+Masculino;ushuaia;EducacionFisica;0;1;1;1;1;1;0;0;0;0;1;0;0;0;0;0;0;1;1;1;1;0;0
+Femenino;ushuaia;EducacionFisica;0;1;1;0;0;1;1;0;0;0;1;1;1;0;1;0;1;1;1;1;1;0;0
+Masculino;ushuaia;CienciasSociales ;0;1;1;0;1;1;1;0;0;1;0;1;0;0;0;1;1;1;1;1;1;1;0
+Femenino;ushuaia;CienciasSociales ;0;1;0;0;1;1;1;0;0;1;0;1;0;0;0;1;1;1;1;1;1;1;0
+Masculino;ushuaia;CienciasSociales ;0;1;0;1;0;1;1;0;0;1;0;1;0;0;0;1;1;0;1;0;1;0;0
+Femenino;ushuaia;CienciasSociales ;0;1;0;1;0;1;1;0;0;0;1;1;1;0;0;0;1;0;1;1;1;1;0
+Femenino;ushuaia;CienciasSociales ;0;1;0;1;0;1;1;0;0;1;1;1;1;0;0;0;1;0;1;0;1;1;1
+Masculino;ushuaia;CienciasSociales ;0;1;0;1;1;1;1;1;0;1;1;1;1;0;0;1;0;1;0;0;1;1;1
+Masculino;ushuaia;CienciasSociales ;0;1;0;1;0;1;1;0;0;1;1;1;1;0;0;1;0;0;1;0;1;1;0
+Masculino;ushuaia;CienciasSociales ;0;0;0;1;1;1;1;0;1;1;1;0;1;0;0;0;1;0;1;1;1;0;1
+Masculino;ushuaia;CienciasSociales ;0;1;0;1;1;1;1;1;0;0;0;1;1;0;0;0;1;0;1;1;1;0;0
+Femenino;ushuaia;CienciasSociales ;0;1;0;0;1;1;1;1;0;1;1;0;1;0;0;0;1;0;0;1;1;0;1
+Femenino;ushuaia;CienciasSociales ;0;1;0;1;1;1;1;1;0;0;1;0;1;0;0;0;1;0;0;0;1;1;1
+Femenino;ushuaia;Electronica ;0;0;0;1;1;1;1;1;1;1;1;1;1;0;0;0;1;0;1;1;0;0;1
+Masculino;ushuaia;Electronica ;0;0;1;0;1;1;1;0;0;1;1;1;0;0;1;0;1;1;1;0;1;1;0
+Masculino;ushuaia;Electronica ;0;1;0;1;1;1;1;1;0;0;0;1;1;0;0;1;0;0;0;0;1;1;1
+Masculino;ushuaia;Electronica ;0;1;1;1;1;1;1;1;0;1;1;0;1;0;0;0;1;1;0;1;1;1;0
+Femenino;ushuaia;Electronica ;0;1;1;1;0;1;1;1;0;0;0;1;1;0;0;0;1;0;1;0;1;1;0
+Femenino;ushuaia;Electronica ;1;0;1;0;0;1;1;0;1;0;1;1;1;0;1;0;1;0;1;1;1;0;1
+Femenino;ushuaia;Electronica ;0;1;1;0;1;1;1;1;0;1;1;1;0;0;0;0;0;1;0;0;0;0;0
+Masculino;ushuaia;Construcciones;1;0;1;1;1;1;1;0;1;0;1;1;0;0;0;0;1;1;1;0;1;0;0
+Masculino;ushuaia;Construcciones;0;1;0;0;1;1;1;0;1;0;1;1;1;0;1;0;1;0;1;0;1;0;0
+Masculino;ushuaia;Construcciones;0;0;1;1;0;1;1;0;0;0;1;0;1;0;1;0;1;1;1;1;1;1;1
+Masculino;ushuaia;Construcciones;0;1;0;1;1;1;1;0;1;1;0;1;0;0;0;1;1;1;1;0;1;0;0
+Masculino;ushuaia;Construcciones;1;0;1;0;0;1;1;0;1;0;1;1;1;0;0;0;1;0;1;1;0;0;0
+Femenino;ushuaia;Construcciones;0;0;1;0;0;1;1;0;1;1;1;1;1;0;0;0;1;1;1;1;1;0;0
+Masculino;ushuaia;Informatica ;0;0;0;1;1;1;1;0;1;1;1;1;1;0;0;0;1;0;0;0;1;1;0
+Masculino;ushuaia;Informatica ;0;1;1;1;0;1;1;1;1;0;0;1;1;0;1;0;1;0;1;1;1;1;0
+Femenino;ushuaia;Informatica ;1;1;0;0;0;1;1;1;0;1;1;1;0;0;1;0;0;1;0;0;1;1;1
+Masculino;ushuaia;Informatica ;0;1;1;0;1;1;1;0;0;1;1;1;1;0;0;1;1;1;0;0;1;1;1
+Femenino;ushuaia;Informatica ;0;1;1;1;1;1;1;0;1;1;1;1;0;0;0;0;1;1;1;1;1;1;0
+Masculino;ushuaia;Informatica ;0;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;1;1;1;1;1;0;0
+Masculino;ushuaia;Informatica ;0;0;1;1;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+Masculino;ushuaia;Informatica ;1;1;1;1;1;1;1;1;0;1;1;1;0;0;0;1;1;1;1;1;1;1;0
+Masculino;ushuaia;Lenguas;0;1;1;1;1;1;1;1;1;1;1;1;0;0;0;1;1;1;1;1;1;1;0
+Masculino;ushuaia;Lenguas;0;1;1;1;1;1;1;1;1;1;0;1;0;0;1;1;0;1;0;1;1;0;0
+Masculino;ushuaia;Lenguas;0;0;1;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1;1;1;0
+Masculino;ushuaia;Lenguas;1;1;0;0;1;1;0;1;1;0;0;1;1;0;0;0;0;1;1;0;0;0;0
+Femenino;ushuaia;Lenguas;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;1;1;0;1;1;1;0;0
+Masculino;ushuaia;Lenguas;0;0;0;0;0;1;1;0;1;0;0;1;0;0;0;1;1;0;1;1;1;0;0
+No Binario;ushuaia;Lenguas;0;0;1;1;0;1;1;0;1;0;1;0;0;0;1;0;0;0;1;1;1;0;0
+Femenino;ushuaia;ArteMusica ;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0;1;0
+Femenino;ushuaia;ArteMusica ;0;0;0;0;1;1;1;0;1;0;1;1;0;1;0;0;0;0;0;1;0;0;0
+Masculino;ushuaia;ArteMusica ;1;0;0;0;1;1;1;0;0;0;1;1;1;1;0;0;1;0;1;0;1;0;1
+Masculino;ushuaia;CienciasSociales ;1;0;1;1;0;1;1;1;0;0;0;1;1;0;0;0;1;0;1;0;1;1;1
+Masculino;ushuaia;CienciasSociales ;0;1;0;0;1;1;1;0;1;1;1;0;0;0;1;0;0;1;1;1;0;1;1
+No Binario;ushuaia;CienciasSociales ;0;1;0;1;1;0;1;1;0;0;1;1;0;1;0;0;1;0;1;1;1;0;0
+Femenino;ushuaia;CienciasSociales ;1;1;1;1;1;1;0;1;1;1;1;1;1;0;0;0;0;1;1;1;1;0;0
+Masculino;ushuaia;CienciasSociales ;0;1;1;1;1;1;1;0;0;0;0;1;1;0;0;1;1;0;0;0;1;1;0
+Femenino;ushuaia;CienciasSociales ;0;1;1;1;1;1;1;1;0;0;0;1;1;1;0;0;1;0;1;0;1;1;0
+Masculino;ushuaia;CienciasSociales ;0;1;1;1;1;1;0;0;0;0;0;1;0;0;0;0;1;1;1;1;1;0;0
+Femenino;ushuaia;CienciasSociales ;0;1;0;1;1;1;1;1;0;1;1;1;1;0;1;0;0;0;1;0;0;0;0
+Femenino;ushuaia;EducacionFisica;0;1;0;1;1;1;1;0;0;1;1;1;0;0;0;0;1;0;1;0;1;1;0
+Femenino;ushuaia;EducacionFisica;0;1;1;1;1;0;1;1;0;0;1;1;0;0;0;0;1;0;1;0;1;0;0
+Femenino;ushuaia;EducacionFisica;0;1;1;0;1;1;0;1;1;0;1;1;0;0;0;0;1;1;1;1;1;1;1
+Femenino;ushuaia;EducacionFisica;1;1;1;0;1;0;1;0;0;0;1;0;1;0;0;0;1;1;1;1;1;0;0
+Femenino;ushuaia;ArtesVisuales ;0;1;0;0;1;1;0;0;1;0;1;1;1;0;0;0;1;1;1;1;1;1;0
+Masculino;ushuaia;ArtesVisuales ;0;1;0;0;1;1;1;0;0;0;1;0;0;0;1;1;1;1;0;1;1;1;1
+No Binario;ushuaia;ArtesVisuales ;0;0;1;0;1;1;1;0;1;1;1;1;0;0;0;0;1;1;0;1;0;0;0
+Masculino;ushuaia;Construcciones;0;0;1;0;1;1;1;0;0;0;0;0;1;0;0;0;1;0;1;0;0;1;0
+Masculino;ushuaia;Construcciones;0;1;0;1;1;0;1;0;0;0;1;1;0;1;0;0;1;0;1;0;1;1;0
+Femenino;ushuaia;EconomiayAdministracion;0;1;1;1;1;1;1;0;1;1;1;1;1;0;1;0;1;0;1;1;1;1;1
+Femenino;ushuaia;EconomiayAdministracion;0;0;1;0;0;1;0;1;1;0;0;1;1;0;0;0;0;0;1;1;1;1;0
+Femenino;ushuaia;EconomiayAdministracion;0;0;1;0;1;1;1;1;1;0;1;0;1;0;0;0;1;1;1;1;1;1;1
+Masculino;ushuaia;EconomiayAdministracion;1;1;0;1;1;1;1;0;0;1;1;1;1;0;0;1;0;1;1;0;1;1;0
+Femenino;ushuaia;EconomiayAdministracion;0;0;1;0;0;1;0;1;1;0;0;1;1;0;0;0;0;0;1;1;1;1;1
+Masculino;ushuaia;EconomiayAdministracion;0;1;0;0;1;1;1;0;0;0;0;1;1;0;0;1;1;1;1;0;0;1;0
+Femenino;ushuaia;EconomiayAdministracion;0;1;0;1;1;1;1;0;0;1;0;1;0;0;0;1;1;1;1;0;1;1;0
+Masculino;ushuaia;EconomiayAdministracion;0;1;1;1;0;1;1;1;1;0;1;1;1;0;1;1;1;1;1;0;1;1;0
+Femenino;ushuaia;EconomiayAdministracion;1;1;1;1;1;1;0;0;1;1;1;1;1;0;0;0;1;1;1;1;1;1;1
